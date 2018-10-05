@@ -1,9 +1,9 @@
 {
-  "name": "honeycomb-beeline",
+  "name": "casalova-honeycomb-beeline",
   "description": "automatic instrumentation for honeycomb.io",
   "author": "support@honeycomb.io",
   "license": "Apache-2.0",
-  "version": "1.1.2",
+  "version": "1.2.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/honeycombio/beeline-nodejs.git"
